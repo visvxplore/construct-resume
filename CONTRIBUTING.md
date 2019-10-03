@@ -21,3 +21,5 @@ Please, first read our CODE_OF_CONDUCT, as a guide to all your interactions with
 
 ## CONTRIBUTORS
 
+- Ash, [@ashnewport](https://github.com/ashnewport)
+
