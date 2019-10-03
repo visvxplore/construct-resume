@@ -5,8 +5,8 @@
             <label>Company Name <input v-model="companyName" placeholder="Company Name"></label>
             <label>Job Title <input v-model="roleName" placeholder="Your Role"></label>
             <label>Job Information <input v-model="roleExperience" placeholder="Explain Your Role"></label>
-            <label>Start Date <input v-model="startDate" placeholder="Start Date"></label>
-            <label>End Date <input v-model="endDate" placeholder="End Date"></label>
+            <label>Start Date <input type="date" v-model="startDate" placeholder="Start Date"></label>
+            <label>End Date <input type="date" v-model="endDate" placeholder="End Date"></label>
             <button @click="addExperience">Add another experience</button>
         </div>
         <ul>
