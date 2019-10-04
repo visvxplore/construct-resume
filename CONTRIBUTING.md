@@ -22,4 +22,6 @@ Please, first read our CODE_OF_CONDUCT, as a guide to all your interactions with
 ## CONTRIBUTORS
 
 - Ash, [@ashnewport](https://github.com/ashnewport)
+- Daniele Reis, [@danielesreis](https://github.com/danielesreis)
+- Agus Fikri Suyuthi, [@ikrydev](https://github.com/ikrydev)
 
